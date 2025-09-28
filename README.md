@@ -1,5 +1,5 @@
+[![Website](https://img.shields.io/badge/Website-blue)](https://valtterisut.github.io/)
 
-[Website](https://valtterisut.github.io/)
 <h3 align="left">Languages and Tools I have experience:</h3>
 
 [![MySQL](https://img.shields.io/badge/MySQL-005C89?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
