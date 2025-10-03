@@ -1,6 +1,8 @@
-[![Website](https://img.shields.io/badge/Website-blue)](https://valtterisut.github.io/)
+<a href="https://valtterisut.github.io/">
+<img src="https://img.shields.io/badge/Website-blue" width="80" alt="My Badge">
+</a>
 
-<h3 align="left">Languages and Tools I have experience:</h3>
+# Languages and Tools I have experience:
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
